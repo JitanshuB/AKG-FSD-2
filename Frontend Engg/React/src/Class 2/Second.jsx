@@ -76,7 +76,7 @@ export function FormHandlingManual(){
                 <input type="text"
                     name="fullname"
                     value={formData.fullname}
-                    onChange={handleInputChange}
+                    onChange={handleInprutChange}
                 />
                 <br />
                 <label htmlFor="">Email : </label>
